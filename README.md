@@ -3,7 +3,7 @@ A secure and user-friendly password manager built with modern web technologies, 
 
 🚀 Features- 
 
-User Authentication: Secure login system to protect user data./n
+User Authentication: Secure login system to protect user data.
 Password Storage: Save and manage multiple passwords with ease.
 Encryption: Implements strong encryption algorithms to safeguard stored passwords.
 Responsive Design: Optimized for various devices and screen sizes.
