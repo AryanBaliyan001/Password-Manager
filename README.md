@@ -1,9 +1,9 @@
 # Password-Manager
-A secure and user-friendly password manager built with modern web technologies. This application allows users to store, manage, and retrieve their passwords efficiently, ensuring data security through robust encryption methods.
+A secure and user-friendly password manager built with modern web technologies, this application allows users to store, manage, and retrieve their passwords efficiently. It ensures data security through robust encryption methods.
 
 🚀 Features- 
 
-User Authentication: Secure login system to protect user data.
+User Authentication: Secure login system to protect user data./n
 Password Storage: Save and manage multiple passwords with ease.
 Encryption: Implements strong encryption algorithms to safeguard stored passwords.
 Responsive Design: Optimized for various devices and screen sizes.
